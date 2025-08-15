@@ -1,1 +1,15 @@
 # data-cleaning-automation-pyspark
+
+Overview
+
+This project demonstrates an end-to-end PySpark workflow for:
+
+Reading CSV, Excel, and text files
+
+Cleaning and standardizing data
+
+Applying validation rules to ensure data quality
+
+Writing processed data to output files
+
+The project is Colab-friendly and designed for real-world data engineering scenarios.
